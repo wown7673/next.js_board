@@ -9,7 +9,7 @@ export default async function Page({params}: { params: { id: string } }) {
     const board = await getBoard(params.id);
 
     return (
-        <main>수정페이지
+        <main>수정페이지1
             <div className="p-20">
                     <UpdateForm board={board[0] as Board}/>
             </div>
