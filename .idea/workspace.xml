@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d03b98a5-81a2-4f64-8022-5e146b898df6" name="Changes" comment="게시판 완료( 디테일X, 권한인증 X )">
-      <change afterPath="$PROJECT_DIR$/my-board/app/(route)/board/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-board/app/(route)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-board/app/(route)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-board/app/(route)/board/freeBoard/[id]/edit/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-board/app/(route)/board/freeBoard/[id]/edit/page.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="d03b98a5-81a2-4f64-8022-5e146b898df6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wown7673"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wown7673/next.js-board.git",
+    "accountId": "4d849500-e0ff-4573-8382-7f1ddbb4f285"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,6 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/dev/dev_next/board-Next",
     "node.js.detected.package.eslint": "true",
@@ -57,12 +65,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "vcs.Git",
     "ts.external.directory.path": "C:\\dev\\dev_next\\board-Next\\my-board\\node_modules\\typescript\\lib"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "mariadb"
+    ],
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
 }]]></component>
@@ -112,7 +125,7 @@
       <workItem from="1722820280923" duration="58653000" />
       <workItem from="1723391549539" duration="1787000" />
       <workItem from="1723586787548" duration="59803000" />
-      <workItem from="1724507370982" duration="24379000" />
+      <workItem from="1724507370982" duration="29047000" />
     </task>
     <task id="LOCAL-00001" summary="게시판 완료( 디테일X, 권한인증 X )">
       <option name="closed" value="true" />
@@ -122,7 +135,63 @@
       <option name="project" value="LOCAL" />
       <updated>1724724789179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724724958653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724724958653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724724964372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724724964372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724725031068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724725031068</updated>
+    </task>
+    <task id="LOCAL-00005" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724725098140</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724725098140</updated>
+    </task>
+    <task id="LOCAL-00006" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724725110722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724725110722</updated>
+    </task>
+    <task id="LOCAL-00007" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724725126180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724725126180</updated>
+    </task>
+    <task id="LOCAL-00008" summary="게시판 완료( 디테일X, 권한인증 X )">
+      <option name="closed" value="true" />
+      <created>1724725190498</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724725190498</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +213,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>

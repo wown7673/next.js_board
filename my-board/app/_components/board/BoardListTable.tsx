@@ -6,6 +6,7 @@ import {getFilteredBoards} from "@/lib/data";
 import {Suspense} from "react";
 
 export default async function boardListTable({query, pageInfo}: {
+
     query: string,
     pageInfo: { rowSize: number, page: number }
 }) {

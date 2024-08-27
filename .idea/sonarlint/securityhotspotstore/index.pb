@@ -323,3 +323,14 @@ G
 my-board/.eslintrc.json,c\3\c35fcb573083e1cc07b6d4a1e719813eac8f10e9
 K
 my-board/postcss.config.mjs,3\f\3fd55cd1a191f7534be59b24f20f2ed7d2f97af9
+è
+_.idea/dataSources/9890b08b-6625-455a-967e-e6e3be5a0a38/storage_v2/_src_/schema/next.84ozAA.meta,3\a\3a8f858b5e201257939a2d6318491bd5ae969151
+c
+3my-board/app/(route)/board/freeBoard/[id]/edit/test,b\6\b61b7c08c289d934e484c924662c86802545edb0
+b
+2my-board/app/(route)/board/freeBoard/[id]/edit/123,7\4\7498ba8795869dacba511e7c1296a1a4e86d6f8e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+F
+my-board/next-env.d.ts,b\2\b2b26c0a671782eb36d49ea69f34c6c04acf0e0d
